@@ -1,0 +1,5 @@
+describe 'Fizzbuzz' do
+  it 'returns "fizz" when passed 3' do
+    expect(Fizzbuzz(3)).to eq 'fizz'
+  end
+end
